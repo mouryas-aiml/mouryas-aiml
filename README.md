@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @mouryas-aiml<br>👨🏻‍🎓 I’m Currently Studying AI&ML Engineering In Dr.AIT<br>🌱 I’m currently Lives In Bengaluru<br>
+👋 Hi, I’m Mourya S <br>👨🏻‍🎓 I’m Currently Studying AI&ML Engineering In Dr.AIT<br>🌱 I’m currently Lives In Bengaluru<br>
 
 
 ## 🌐 Socials:
