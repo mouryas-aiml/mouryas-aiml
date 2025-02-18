@@ -1,5 +1,5 @@
 <div align="center" >
-  <img width="400" src="[https://giphy.com/gifs/vr-bigblueboo-rescuties-3o7qE1YN7aBOFPRw8E](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjA0ZDlrZmI0MTk2ZTA2OHY2eHBmbjJwdTUycGFqZ3Iyc3c2ZGRxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qE1YN7aBOFPRw8E/giphy.gif)" alt="coding">
+  <img width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzI4aDQ0c2QxbzhiMnRvdmRjZnR3YXIxeDllczczb3JpMWtrbWlpYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt="coding">
 </div>
 
 <h1 align="center">Hi 👋, I'm MOURYA S </h1>
