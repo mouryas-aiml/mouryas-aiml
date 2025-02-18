@@ -2,7 +2,7 @@
   <img width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzI4aDQ0c2QxbzhiMnRvdmRjZnR3YXIxeDllczczb3JpMWtrbWlpYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt="coding">
 </div>
 
-<h1 align="center">Hi 👋, I'm MOURYA S </h1>
+<h1 align="center">Hi 👋, I'm 𝙼𝙾𝚄𝚁𝚈𝙰 𝚂 </h1>
 
 <h3 align="center">A Passionate AI&ML Engineer From India. </h3>
 
@@ -15,11 +15,9 @@
 
 - 🔭 I’m looking To Contribute to **Open Source**
 
-- 🌱 I’m currently exploring **Machine learning**
+- 🌱 I’m Currently Exploring **Machine learning**
 
-- 👩‍💻 Know me more <a href="  " style="text-decoration: none;">Portfolio</a>
-
-- 📝 Feel free to reach out to me here: <a href="https://mail.google.com/mail/u/0/?tab=wm#inbox?compose=new" style="text-decoration: none;">Email</a>
+- 👩‍💻 Know me more <a href="https://www.linkedin.com/in/mourya-s/" style="text-decoration: none;">LINKEDIN</a>
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
