@@ -3,7 +3,6 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm 𝙼𝙾𝚄𝚁𝚈𝙰 𝚂 </h1>
-
 <h3 align="center">A Passionate AI&ML Engineer From India. </h3>
 
 <p align="left">
@@ -11,7 +10,7 @@
 </p>
 
 ### 🙋‍♂️ About Me
-- 👩‍🎓 Studying AI&ML Engineering At **Dr.Ambedkar Institute Of Technology**.
+- 👨‍🎓 Studying AI&ML Engineering At **Dr.Ambedkar Institute Of Technology**.
 
 - 🔭 I’m looking To Contribute to **Open Source**
 
