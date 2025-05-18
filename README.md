@@ -70,7 +70,18 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@mouryas_streamline.x?si=tt4mv9rmC3qwb2nh)
 [![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black)](https://www.snapchat.com/add/mourya_gowda19?share_id=H_YsOHgpsr0&locale=en-IN)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VadTKY17oQhXeo0FYy0G)   
+
+
+<div align="center">
+<a href="https://twitter.com/mr_mourya_gowda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mr_mourya_gowda" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mourya-s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mourya-s" height="30" width="40" /></a>
+<a href="https://fb.com/mouryagowda.s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mouryagowda.s" height="30" width="40" /></a>
+<a href="https://instagram.com/_mourya__gowda_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mourya__gowda_" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/mouryas_streamline.x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mouryas_streamline.x" height="30" width="40" /></a>
+</p>
+
 </div>
+
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
