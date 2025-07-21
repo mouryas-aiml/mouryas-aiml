@@ -10,11 +10,11 @@
 </p>
 
 ### 🙋‍♂️ About Me
-- 👨‍🎓 Studying AI&ML Engineering At <a href="https://www.drait.edu.in/" style="text-decoration: none;">**Dr.Ambedkar Institute Of Technology**</a>
+- 👨‍🎓 Studying AI&ML Engineering At <a href="https://www.drait.edu.in/" style="text-decoration: none;">**Dr. Ambedkar Institute Of Technology**</a>
 
 - 🔭 I’m looking To Contribute to **Open Source**
 
-- 🌱 I’m Currently Exploring **Machine learning**
+- 🌱 I’m Currently Exploring **Artificial Intelligence & Machine learning**
 
 - 👩‍💻 Know Me More <a href="https://www.linkedin.com/in/mourya-s/" style="text-decoration: none;">LINKEDIN</a>
 
