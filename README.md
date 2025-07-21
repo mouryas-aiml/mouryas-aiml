@@ -10,7 +10,7 @@
 </p>
 
 ### 🙋‍♂️ About Me
-- 👨‍🎓 Studying AI&ML Engineering At **Dr.Ambedkar Institute Of Technology**.
+- 👨‍🎓 Studying AI&ML Engineering At <a href="https://www.drait.edu.in/" style="text-decoration: none;">**Dr.Ambedkar Institute Of Technology**</a>
 
 - 🔭 I’m looking To Contribute to **Open Source**
 
