@@ -31,6 +31,27 @@
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=mouryas-aiml&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)
+
+
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mouryas-aiml&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
+
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
+
+## 🏆 Mourya'S GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=mouryas-aiml&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<p align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
   
 ## Contribution Graph
 
